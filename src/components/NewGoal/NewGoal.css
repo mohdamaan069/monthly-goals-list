@@ -1,0 +1,28 @@
+.new-goal {
+  margin: 2rem;
+  text-align: center;
+}
+
+.input {
+  padding: 5px;
+  padding-left: 10px;
+  width: 500px;
+  border-radius: 7px;
+}
+
+button {
+  padding: 8px;
+  color: #fff;
+  border: none;
+  border-radius: 12px;
+  margin: 5px;
+}
+
+button {
+  background-color: #ffbf00;
+}
+
+button:hover {
+  background-color: #002ead;
+  transition: 0.7s;
+}
